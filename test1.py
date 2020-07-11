@@ -1,5 +1,5 @@
 A = [12,33,3,2,1,0,5,8]
-target =10
+target =12
 def test(A,target):
     for i in range(len(A)-1):
         for j in range(i+1,len(A)):
