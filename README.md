@@ -1,2 +1,2 @@
 # DB-validation
-The script checks databse if values are correctly updated.
+The script checks if database values are correctly updated.
